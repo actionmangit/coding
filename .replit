@@ -1,3 +1,5 @@
 language = "python3"
 #run = "python python-basic/basic.py"
-run = "python python-basic/list.py"
+#run = "python python-basic/list.py"
+#run = "python python-basic/data.py"
+run = "python python-basic/case.py"
