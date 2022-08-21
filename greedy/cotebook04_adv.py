@@ -1,3 +1,4 @@
+# 17 4
 n, k = map(int, input().split())
 result = 0
 
@@ -15,4 +16,5 @@ while True:
     result += 1
 
 result += n - 1
+
 print(result)
